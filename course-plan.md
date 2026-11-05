@@ -14,7 +14,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### ¿Cómo usar este curso?
 
 1. Mira la lección en YouTube.
-2. Cuando aparezca **⏸ PAUSA**, detén el video y abre el enlace de práctica: el código ya está cargado.
+2. Cuando aparezca PAUSA, detén el video y abre el enlace de práctica: el código ya está cargado.
 3. Resuelve los **RETOS** marcados en el código y presiona **Run**.
 4. Compara tu resultado con la solución del video o de la carpeta `/completed-examples`.
 
