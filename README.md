@@ -9,15 +9,33 @@ Plan completo del curso, con enlaces a los videos: [`course-plan.md`](course-pla
 ```
 java-fundamentals-course-nombre-equipo/
 ├── README.md
-├── course-plan.md                  ← Plan del curso con enlaces a YouTube y editores en línea
-├── starter-files/                  ← Código inicial con RETOS para completar
+├── course-plan.md                         ← Plan del curso con enlaces a YouTube y editores en línea
+├── starter-files/                         ← Código inicial con RETOS para completar
 │   ├── leccion-01-hola-mundo/Main.java
-│   ├── …
+│   ├── leccion-02-variables-y-operadores/Main.java
+│   ├── leccion-03-decisiones-y-bucles/Main.java
+│   ├── leccion-04-metodos-y-entrada/Main.java
+│   ├── leccion-05-clases-y-objetos/Main.java
+│   ├── leccion-06-encapsulacion-y-arrays/Main.java
+│   ├── leccion-07-proyecto-final/Main.java
 │   └── leccion-08-buenas-practicas-y-errores/Main.java
-├── completed-examples/             ← Soluciones completas (misma estructura)
-└── scripts/                        ← Guiones de cada video
+├── completed-examples/                    ← Soluciones completas de cada lección
+│   ├── leccion-01-hola-mundo/Main.java
+│   ├── leccion-02-variables-y-operadores/Main.java
+│   ├── leccion-03-decisiones-y-bucles/Main.java
+│   ├── leccion-04-metodos-y-entrada/Main.java
+│   ├── leccion-05-clases-y-objetos/Main.java
+│   ├── leccion-06-encapsulacion-y-arrays/Main.java
+│   ├── leccion-07-proyecto-final/Main.java
+│   └── leccion-08-buenas-practicas-y-errores/Main.java
+└── scripts/                               ← Guiones de cada video
     ├── leccion-01-guion.md
-    ├── …
+    ├── leccion-02-guion.md
+    ├── leccion-03-guion.md
+    ├── leccion-04-guion.md
+    ├── leccion-05-guion.md
+    ├── leccion-06-guion.md
+    ├── leccion-07-guion.md
     └── leccion-08-guion.md
 ```
 
