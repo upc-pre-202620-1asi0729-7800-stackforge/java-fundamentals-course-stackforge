@@ -2,7 +2,7 @@
 
 Código de práctica y soluciones del curso en video **Fundamentos de Java para Principiantes**, dirigido a estudiantes de secundaria (12 a 17 años) sin experiencia previa en programación.
 
-📄 Plan completo del curso, con enlaces a los videos: [`course-plan.md`](course-plan.md)
+Plan completo del curso, con enlaces a los videos: [`course-plan.md`](course-plan.md)
 
 ## Estructura del repositorio
 
@@ -38,7 +38,7 @@ Solo necesitas un navegador web (Chrome, Firefox, Safari o Edge).
 
 También funciona en [JDoodle](https://www.jdoodle.com/online-java-compiler) o [Replit](https://replit.com/). Todas las clases de cada lección están en un solo archivo y solo la clase `Main` es `public`, por eso el código corre igual en cualquiera de estos editores.
 
-> 💡 En las lecciones 4 y 7 el programa te hace preguntas: escribe tu respuesta en la consola y presiona **Enter**.
+> En las lecciones 4 y 7 el programa te hace preguntas: escribe tu respuesta en la consola y presiona **Enter**.
 
 ## Lecciones
 
@@ -53,7 +53,7 @@ También funciona en [JDoodle](https://www.jdoodle.com/online-java-compiler) o [
 | 7 | Proyecto final: juego de adivinanzas | 9 min | Integración de todo el curso |
 | 8 | Buenas prácticas y errores comunes | 6 min | Leer errores, nombres claros, constantes |
 
-> ⚠️ El archivo `starter-files/leccion-08-buenas-practicas-y-errores/Main.java` **no compila a propósito**: el reto es encontrar y corregir sus errores.
+>  El archivo `starter-files/leccion-08-buenas-practicas-y-errores/Main.java` **no compila a propósito**: el reto es encontrar y corregir sus errores.
 
 ## Requisitos técnicos
 
