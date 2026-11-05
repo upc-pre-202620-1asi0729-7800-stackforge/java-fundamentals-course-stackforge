@@ -9,7 +9,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: Solo tu navegador web (Chrome, Firefox, Safari o Edge)  
 **Editor en línea**: [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) — gratuito, no requiere registro  
-** Repositorio de código fuente**: [https://github.com/nombre-organizacion/java-fundamentals-course-stackforge]([https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge.git)
+** Repositorio de código fuente**:  [Repositorio de GitHub](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge.git)
 
 ### ¿Cómo usar este curso?
 
