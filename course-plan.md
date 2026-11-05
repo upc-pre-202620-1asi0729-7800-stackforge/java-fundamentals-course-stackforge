@@ -9,7 +9,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: Solo tu navegador web (Chrome, Firefox, Safari o Edge)  
 **Editor en línea**: [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) — gratuito, no requiere registro  
-**📁 Repositorio de código fuente**: [https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo)
+** Repositorio de código fuente**: [https://github.com/nombre-organizacion/java-fundamentals-course-stackforge]([https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge.git)
 
 ### ¿Cómo usar este curso?
 
@@ -44,7 +44,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Java se usa en aplicaciones móviles, sistemas de empresas y videojuegos
   - Todo programa Java tiene una clase `Main` con un método `main`
   - `System.out.println("Hola");` muestra texto en la consola
-- **Empieza a programar**: [Abrir OnlineGDB — Hola mundo](https://onlinegdb.com/ENLACE-PRACTICA-1) 👈 **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir OnlineGDB — Hola mundo](https://onlinegdb.com/ENLACE-PRACTICA-1)  **¡No necesitas registrarte!**
 
 ---
 
@@ -58,7 +58,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Operadores aritméticos: `+`, `-`, `*`, `/`, `%` (el `%` da el residuo)
   - Dividir entre `3.0` en lugar de `3` conserva los decimales
   - Comparar dos valores (`>=`, `==`, `!=`) da `true` o `false`
-- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-2) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-2)  **¡Inicio inmediato!**
 
 ---
 
@@ -71,7 +71,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - `&&` (y), `||` (o) y `!` (no) combinan condiciones
   - `for` repite una cantidad conocida de veces: `for (int i = 1; i <= 10; i++)`
   - `while` repite mientras la condición sea verdadera; si no cambias la variable, el bucle nunca termina
-- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-3) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-3)  **¡No necesitas registrarte!**
 
 ---
 
@@ -84,7 +84,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Los parámetros son los datos que recibe un método; `return` devuelve un resultado
   - Un método `void` hace algo pero no devuelve nada
   - `Scanner teclado = new Scanner(System.in);` lee lo que escribe el usuario
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ENLACE-PRACTICA-4) 👈 **¡Escribe en la consola y presiona Enter!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ENLACE-PRACTICA-4)  **¡Escribe en la consola y presiona Enter!**
 
 ---
 
@@ -97,7 +97,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Los atributos son lo que el objeto **tiene**; los métodos, lo que **hace**
   - El constructor prepara el objeto al crearlo con `new`
   - `this.nombre` se refiere al atributo del objeto actual
-- **Práctica**: [Crea tu mascota](https://onlinegdb.com/ENLACE-PRACTICA-5) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Crea tu mascota](https://onlinegdb.com/ENLACE-PRACTICA-5)  **¡No necesitas registrarte!**
 
 ---
 
@@ -110,7 +110,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - El getter permite leer; el setter permite cambiar con reglas (por ejemplo, notas entre 0 y 20)
   - Un array guarda varios valores del mismo tipo y sus índices empiezan en `0`
   - Los textos también tienen métodos: `.length()`, `.toUpperCase()`, `.equals()`
-- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-6) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-6)  **¡Inicio inmediato!**
 
 ---
 
@@ -123,7 +123,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Un `while` con dos condiciones controla cuándo termina el juego
   - Los atributos privados y los getters protegen el estado del juego
   - Un array guarda el historial de intentos
-- **Proyecto final**: [Crea tu juego](https://onlinegdb.com/ENLACE-PRACTICA-7) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu juego](https://onlinegdb.com/ENLACE-PRACTICA-7)  **¡Guarda y comparte!**
 
 ---
 
@@ -136,13 +136,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Errores típicos: `;` faltante, mayúsculas/minúsculas, olvidar `new`, salirse del array, olvidar `this`
   - Usa nombres descriptivos (`sumaNotas`, no `x`) y constantes en lugar de números sueltos
   - Ejecuta tu programa seguido: es más fácil encontrar un error a la vez
-- **Práctica**: [Encuentra los errores](https://onlinegdb.com/ENLACE-PRACTICA-8) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Encuentra los errores](https://onlinegdb.com/ENLACE-PRACTICA-8) **¡Inicio inmediato!**
 
 ---
 
 ## Recursos adicionales
 
-**Código fuente completo**: [Repositorio de GitHub](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo)
+**Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge.git)
 
 **Todas las actividades prácticas**:
 
@@ -158,7 +158,6 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 | 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-8) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-08-buenas-practicas-y-errores) |
 
 **Documentación oficial de Java**: [docs.oracle.com/en/java](https://docs.oracle.com/en/java/)  
-**Cuestionario**: [Prueba tus conocimientos](https://forms.gle/ENLACE-CUESTIONARIO)  
 **Compartir**: #JavaBeginners
 
 **¡Gracias por completar el curso!**
