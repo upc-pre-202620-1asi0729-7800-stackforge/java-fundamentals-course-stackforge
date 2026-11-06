@@ -1,5 +1,6 @@
 // Lección 7: Proyecto final — Juego de adivinanzas con clases
 // Completa los RETOS en orden. Ejecuta el programa después de cada uno.
+//Eddo Su Caletti 
 
 import java.util.Random;
 import java.util.Scanner;
