@@ -123,7 +123,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Un `while` con dos condiciones controla cuándo termina el juego
   - Los atributos privados y los getters protegen el estado del juego
   - Un array guarda el historial de intentos
-- **Proyecto final**: [Crea tu juego](https://onlinegdb.com/ENLACE-PRACTICA-7)  **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu juego](https://onlinegdb.com/WZylC6Mzu)  **¡Guarda y comparte!**
 
 ---
 
@@ -154,7 +154,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 | 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-4) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
 | 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-5) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
 | 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-6) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-06-encapsulacion-y-arrays) |
-| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-7) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-07-proyecto-final) |
+| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-07-proyecto-final) |
 | 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-8) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-08-buenas-practicas-y-errores) |
 
 **Documentación oficial de Java**: [docs.oracle.com/en/java](https://docs.oracle.com/en/java/)  
@@ -175,7 +175,7 @@ NRC 7800
 **Nombre del equipo**: stackforge
 **Líder del equipo**: Ramirez Ruiz, Nickolas  
 **Integrantes del equipo**:
-- [Apellidos], Eddo ([código])
+- Su Caletti, Eddo (u20221a390)
 - [Apellidos], Jose ([código])
 - [Apellidos], Mathias ([código])
 - Ramirez Ruiz, Nickolas (u202415551)
@@ -191,6 +191,6 @@ NRC 7800
 | [Apellidos], Mathias | Lecciones 2 y 6 | `README.md` del repositorio |
 | [Apellidos], Salvador | Lecciones 3 y 8 | Revisión técnica de todo el código Java |
 | [Apellidos], Jose | Lecciones 4 y 5 | Creación y prueba de los enlaces de práctica en OnlineGDB |
-| [Apellidos], Eddo | Lección 7 | Plantilla de edición (textos en pantalla, pausas) y control de calidad de audio y video |
+| Su Caletti, Eddo | Lección 7 | Plantilla de edición (textos en pantalla, pausas) y control de calidad de audio y video |
 
 **Forma de trabajo**: cada integrante trabajó en una rama propia del repositorio e integró sus aportes mediante *pull requests* revisados por al menos otro integrante. Los commits de cada persona evidencian su participación. Todos los ejemplos fueron probados en OnlineGDB antes de grabar.
