@@ -38,13 +38,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 1: ¿Qué es programar y qué es Java? (6 minutos)
 
 - **Descripción**: Descubre qué es un programa, por qué Java es uno de los lenguajes más usados del mundo y ejecuta tu primer código sin instalar nada.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-1)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=QfCTnbuxAgE)
 - **Conceptos clave**:
   - Un programa es una lista de instrucciones que la computadora sigue en orden
   - Java se usa en aplicaciones móviles, sistemas de empresas y videojuegos
   - Todo programa Java tiene una clase `Main` con un método `main`
   - `System.out.println("Hola");` muestra texto en la consola
-- **Empieza a programar**: [Abrir OnlineGDB — Hola mundo](https://onlinegdb.com/ENLACE-PRACTICA-1)  **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir OnlineGDB — Hola mundo](https://www.onlinegdb.com/edit/Li7EcCDAu#) 
 
 ---
 
