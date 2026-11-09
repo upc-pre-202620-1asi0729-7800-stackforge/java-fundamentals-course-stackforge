@@ -65,7 +65,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 3: Decisiones y bucles (9 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con `if-else` y repita tareas con `for` y `while`: tablas de multiplicar, cuentas regresivas y más.
-- **Enlace**: [Ver la lección](https://youtube/watch?v=xc7Lo5C7M9I)
+- **Enlace**: [Ver la lección](https://youtube.com/watch?v=xc7Lo5C7M9I)
 - **Conceptos clave**:
   - `if` ejecuta un bloque solo si se cumple una condición; `else if` y `else` cubren los otros casos
   - `&&` (y), `||` (o) y `!` (no) combinan condiciones
