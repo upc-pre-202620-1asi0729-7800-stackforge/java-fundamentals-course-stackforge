@@ -117,7 +117,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 7: Proyecto final — Juego de adivinanzas con clases (9 minutos)
 
 - **Descripción**: Construye un juego en el que la computadora piensa un número y tú lo adivinas con pistas. Integra todo lo aprendido en el curso.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-7)
+- **Enlace**: [Ver la lección](https://youtu.be/i0wJX2UJSQk)
 - **Conceptos clave**:
   - Dividir el programa en clases (`JuegoAdivinanza` y `Jugador`) hace el código más fácil de entender
   - Un `while` con dos condiciones controla cuándo termina el juego
@@ -154,7 +154,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 | 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-4) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
 | 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-5) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
 | 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-6) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-06-encapsulacion-y-arrays) |
-| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-07-proyecto-final) |
+| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://onlinegdb.com/I44MG-zYc) |
 | 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-8) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-08-buenas-practicas-y-errores) |
 
 **Documentación oficial de Java**: [docs.oracle.com/en/java](https://docs.oracle.com/en/java/)  
