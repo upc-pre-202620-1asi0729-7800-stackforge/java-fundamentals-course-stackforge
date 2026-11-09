@@ -65,13 +65,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 3: Decisiones y bucles (9 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con `if-else` y repita tareas con `for` y `while`: tablas de multiplicar, cuentas regresivas y más.
-- **Enlace**: [Ver la lección](https://youtu.be/o3aHSq8QHpg)
+- **Enlace**: [Ver la lección](https://youtube.com/watch?v=xc7Lo5C7M9I)
 - **Conceptos clave**:
   - `if` ejecuta un bloque solo si se cumple una condición; `else if` y `else` cubren los otros casos
   - `&&` (y), `||` (o) y `!` (no) combinan condiciones
   - `for` repite una cantidad conocida de veces: `for (int i = 1; i <= 10; i++)`
   - `while` repite mientras la condición sea verdadera; si no cambias la variable, el bucle nunca termina
-- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-3)  **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/bUspz02Dq)  **¡No necesitas registrarte!**
 
 ---
 
@@ -130,13 +130,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 8: Buenas prácticas y errores comunes (6 minutos)
 
 - **Descripción**: Conviértete en detective: encuentra y corrige los 5 errores de un programa leyendo los mensajes de error, y aprende hábitos para escribir código claro.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-8)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=WKeCt2fbaSs)
 - **Conceptos clave**:
   - El mensaje de error indica la línea y el problema: léelo completo
   - Errores típicos: `;` faltante, mayúsculas/minúsculas, olvidar `new`, salirse del array, olvidar `this`
   - Usa nombres descriptivos (`sumaNotas`, no `x`) y constantes en lugar de números sueltos
   - Ejecuta tu programa seguido: es más fácil encontrar un error a la vez
-- **Práctica**: [Encuentra los errores](https://onlinegdb.com/ENLACE-PRACTICA-8) **¡Inicio inmediato!**
+- **Práctica**: [Encuentra los errores](https://onlinegdb.com/8USzzP2rUc) **¡Inicio inmediato!**
 
 ---
 
