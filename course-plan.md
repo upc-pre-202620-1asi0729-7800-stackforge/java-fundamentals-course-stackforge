@@ -51,7 +51,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 2: Variables, tipos de datos y operadores (8 minutos)
 
 - **Descripción**: Aprende a guardar información en variables y a hacer cálculos con ellas, como el promedio de tus notas.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-2)
+- **Enlace**: [Ver la lección](https://youtu.be/IJnEc2pH2zM)
 - **Conceptos clave**:
   - Una variable es una caja con etiqueta que guarda un dato: `int edad = 14;`
   - Tipos básicos: `int`, `double`, `String`, `boolean`, `char`
@@ -65,7 +65,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 3: Decisiones y bucles (9 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con `if-else` y repita tareas con `for` y `while`: tablas de multiplicar, cuentas regresivas y más.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-3)
+- **Enlace**: [Ver la lección](https://youtu.be/o3aHSq8QHpg)
 - **Conceptos clave**:
   - `if` ejecuta un bloque solo si se cumple una condición; `else if` y `else` cubren los otros casos
   - `&&` (y), `||` (o) y `!` (no) combinan condiciones
@@ -104,7 +104,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 6: Encapsulación, arrays y cadenas (8 minutos)
 
 - **Descripción**: Protege los datos de tus objetos con `private`, getters y setters, y guarda a todo un salón de estudiantes en un array.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-6)
+- **Enlace**: [Ver la lección](https://youtu.be/o3aHSq8QHpg)
 - **Conceptos clave**:
   - `private` impide que se cambie un atributo desde fuera de la clase
   - El getter permite leer; el setter permite cambiar con reglas (por ejemplo, notas entre 0 y 20)
@@ -177,7 +177,7 @@ NRC 7800
 **Integrantes del equipo**:
 - [Apellidos], Eddo ([código])
 - [Apellidos], Jose ([código])
-- [Apellidos], Mathias ([código])
+- De la Cruz De los Santos, Mathias (u202424059)
 - Ramirez Ruiz, Nickolas (u202415551)
 - [Apellidos], Salvador ([código])
 
@@ -188,7 +188,7 @@ NRC 7800
 | Integrante | Lecciones (guion, código y video) | Otras responsabilidades |
 |---|---|---|
 | Ramirez Ruiz, Nickolas | Lección 1 | Coordinación, documento del plan de curso (`course-plan.md`), informe de participación |
-| [Apellidos], Mathias | Lecciones 2 y 6 | `README.md` del repositorio |
+| De la Cruz De los Santos, Mathias | Lecciones 2 y 6 | `README.md` del repositorio |
 | [Apellidos], Salvador | Lecciones 3 y 8 | Revisión técnica de todo el código Java |
 | [Apellidos], Jose | Lecciones 4 y 5 | Creación y prueba de los enlaces de práctica en OnlineGDB |
 | [Apellidos], Eddo | Lección 7 | Plantilla de edición (textos en pantalla, pausas) y control de calidad de audio y video |
