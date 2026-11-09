@@ -130,13 +130,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 8: Buenas prácticas y errores comunes (6 minutos)
 
 - **Descripción**: Conviértete en detective: encuentra y corrige los 5 errores de un programa leyendo los mensajes de error, y aprende hábitos para escribir código claro.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-8)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=WKeCt2fbaSs)
 - **Conceptos clave**:
   - El mensaje de error indica la línea y el problema: léelo completo
   - Errores típicos: `;` faltante, mayúsculas/minúsculas, olvidar `new`, salirse del array, olvidar `this`
   - Usa nombres descriptivos (`sumaNotas`, no `x`) y constantes en lugar de números sueltos
   - Ejecuta tu programa seguido: es más fácil encontrar un error a la vez
-- **Práctica**: [Encuentra los errores](https://onlinegdb.com/ENLACE-PRACTICA-8) **¡Inicio inmediato!**
+- **Práctica**: [Encuentra los errores](https://onlinegdb.com/8USzzP2rUc) **¡Inicio inmediato!**
 
 ---
 
