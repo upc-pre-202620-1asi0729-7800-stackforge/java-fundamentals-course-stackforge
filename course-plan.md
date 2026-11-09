@@ -51,7 +51,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 2: Variables, tipos de datos y operadores (8 minutos)
 
 - **Descripción**: Aprende a guardar información en variables y a hacer cálculos con ellas, como el promedio de tus notas.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-2)
+- **Enlace**: [Ver la lección](https://youtu.be/IJnEc2pH2zM)
 - **Conceptos clave**:
   - Una variable es una caja con etiqueta que guarda un dato: `int edad = 14;`
   - Tipos básicos: `int`, `double`, `String`, `boolean`, `char`
@@ -65,13 +65,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 3: Decisiones y bucles (9 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con `if-else` y repita tareas con `for` y `while`: tablas de multiplicar, cuentas regresivas y más.
-- **Enlace**: [Ver la lección](https://youtube/watch?v=xc7Lo5C7M9I)
+- **Enlace**: [Ver la lección](https://youtu.be/o3aHSq8QHpg)
 - **Conceptos clave**:
   - `if` ejecuta un bloque solo si se cumple una condición; `else if` y `else` cubren los otros casos
   - `&&` (y), `||` (o) y `!` (no) combinan condiciones
   - `for` repite una cantidad conocida de veces: `for (int i = 1; i <= 10; i++)`
   - `while` repite mientras la condición sea verdadera; si no cambias la variable, el bucle nunca termina
-- **Práctica**: [Clic para programar](https://onlinegdb.com/bUspz02Dq)  **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-3)  **¡No necesitas registrarte!**
 
 ---
 
@@ -104,7 +104,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 6: Encapsulación, arrays y cadenas (8 minutos)
 
 - **Descripción**: Protege los datos de tus objetos con `private`, getters y setters, y guarda a todo un salón de estudiantes en un array.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-6)
+- **Enlace**: [Ver la lección](https://youtu.be/o3aHSq8QHpg)
 - **Conceptos clave**:
   - `private` impide que se cambie un atributo desde fuera de la clase
   - El getter permite leer; el setter permite cambiar con reglas (por ejemplo, notas entre 0 y 20)
@@ -117,26 +117,26 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 7: Proyecto final — Juego de adivinanzas con clases (9 minutos)
 
 - **Descripción**: Construye un juego en el que la computadora piensa un número y tú lo adivinas con pistas. Integra todo lo aprendido en el curso.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-7)
+- **Enlace**: [Ver la lección](https://youtu.be/i0wJX2UJSQk)
 - **Conceptos clave**:
   - Dividir el programa en clases (`JuegoAdivinanza` y `Jugador`) hace el código más fácil de entender
   - Un `while` con dos condiciones controla cuándo termina el juego
   - Los atributos privados y los getters protegen el estado del juego
   - Un array guarda el historial de intentos
-- **Proyecto final**: [Crea tu juego](https://onlinegdb.com/ENLACE-PRACTICA-7)  **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu juego](https://onlinegdb.com/WZylC6Mzu)  **¡Guarda y comparte!**
 
 ---
 
 ### Lección 8: Buenas prácticas y errores comunes (6 minutos)
 
 - **Descripción**: Conviértete en detective: encuentra y corrige los 5 errores de un programa leyendo los mensajes de error, y aprende hábitos para escribir código claro.
-- **Enlace**: [Ver la lección](https://youtube/watch?v=WKeCt2fbaSs)
+- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-8)
 - **Conceptos clave**:
   - El mensaje de error indica la línea y el problema: léelo completo
   - Errores típicos: `;` faltante, mayúsculas/minúsculas, olvidar `new`, salirse del array, olvidar `this`
   - Usa nombres descriptivos (`sumaNotas`, no `x`) y constantes en lugar de números sueltos
   - Ejecuta tu programa seguido: es más fácil encontrar un error a la vez
-- **Práctica**: [Encuentra los errores](https://onlinegdb.com/8USzzP2rUc) **¡Inicio inmediato!**
+- **Práctica**: [Encuentra los errores](https://onlinegdb.com/ENLACE-PRACTICA-8) **¡Inicio inmediato!**
 
 ---
 
@@ -154,7 +154,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 | 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-4) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
 | 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-5) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
 | 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-6) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-06-encapsulacion-y-arrays) |
-| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-7) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-07-proyecto-final) |
+| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://onlinegdb.com/I44MG-zYc) |
 | 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-8) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-08-buenas-practicas-y-errores) |
 
 **Documentación oficial de Java**: [docs.oracle.com/en/java](https://docs.oracle.com/en/java/)  
@@ -175,9 +175,9 @@ NRC 7800
 **Nombre del equipo**: stackforge
 **Líder del equipo**: Ramirez Ruiz, Nickolas  
 **Integrantes del equipo**:
-- [Apellidos], Eddo ([código])
+- Su Caletti, Eddo (u20221a390)
 - [Apellidos], Jose ([código])
-- [Apellidos], Mathias ([código])
+- De la Cruz De los Santos, Mathias (u202424059)
 - Ramirez Ruiz, Nickolas (u202415551)
 - [Apellidos], Salvador ([código])
 
@@ -188,9 +188,9 @@ NRC 7800
 | Integrante | Lecciones (guion, código y video) | Otras responsabilidades |
 |---|---|---|
 | Ramirez Ruiz, Nickolas | Lección 1 | Coordinación, documento del plan de curso (`course-plan.md`), informe de participación |
-| [Apellidos], Mathias | Lecciones 2 y 6 | `README.md` del repositorio |
+| De la Cruz De los Santos, Mathias | Lecciones 2 y 6 | `README.md` del repositorio |
 | [Apellidos], Salvador | Lecciones 3 y 8 | Revisión técnica de todo el código Java |
 | [Apellidos], Jose | Lecciones 4 y 5 | Creación y prueba de los enlaces de práctica en OnlineGDB |
-| [Apellidos], Eddo | Lección 7 | Plantilla de edición (textos en pantalla, pausas) y control de calidad de audio y video |
+| Su Caletti, Eddo | Lección 7 | Plantilla de edición (textos en pantalla, pausas) y control de calidad de audio y video |
 
 **Forma de trabajo**: cada integrante trabajó en una rama propia del repositorio e integró sus aportes mediante *pull requests* revisados por al menos otro integrante. Los commits de cada persona evidencian su participación. Todos los ejemplos fueron probados en OnlineGDB antes de grabar.

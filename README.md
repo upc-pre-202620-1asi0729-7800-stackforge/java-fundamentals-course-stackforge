@@ -41,8 +41,6 @@ java-fundamentals-course-stackforge/
 
 Cada lección tiene su carpeta (`lesson-01-hello-world`, `lesson-02-variables-and-operators`, …) con un único archivo `Main.java`.
 
-Cada lección tiene su carpeta (`leccion-01-hola-mundo`, `leccion-02-variables-y-operadores`, …) con un único archivo `Main.java`.
-
 ## Instrucciones de configuración (¡sin instalar nada!)
 
 Solo necesitas un navegador web (Chrome, Firefox, Safari o Edge).
@@ -73,7 +71,7 @@ También funciona en [JDoodle](https://www.jdoodle.com/online-java-compiler) o [
 | 7 | Proyecto final: juego de adivinanzas | 9 min | Integración de todo el curso |
 | 8 | Buenas prácticas y errores comunes | 6 min | Leer errores, nombres claros, constantes |
 
->  El archivo `starter-files/leccion-08-buenas-practicas-y-errores/Main.java` **no compila a propósito**: el reto es encontrar y corregir sus errores.
+> El archivo `starter-files/lesson-08-best-practices-and-errors/Main.java` **no compila a propósito**: el reto es encontrar y corregir sus errores.
 
 ## Requisitos técnicos
 
