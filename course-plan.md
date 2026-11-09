@@ -65,13 +65,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 3: Decisiones y bucles (9 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con `if-else` y repita tareas con `for` y `while`: tablas de multiplicar, cuentas regresivas y más.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-3)
+- **Enlace**: [Ver la lección](https://youtube/watch?v=xc7Lo5C7M9I)
 - **Conceptos clave**:
   - `if` ejecuta un bloque solo si se cumple una condición; `else if` y `else` cubren los otros casos
   - `&&` (y), `||` (o) y `!` (no) combinan condiciones
   - `for` repite una cantidad conocida de veces: `for (int i = 1; i <= 10; i++)`
   - `while` repite mientras la condición sea verdadera; si no cambias la variable, el bucle nunca termina
-- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-3)  **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/bUspz02Dq)  **¡No necesitas registrarte!**
 
 ---
 
