@@ -176,7 +176,7 @@ NRC 7800
 **Líder del equipo**: Ramirez Ruiz, Nickolas  
 **Integrantes del equipo**:
 - Su Caletti, Eddo (u20221a390)
-- [Apellidos], Jose ([código])
+- Ortega Quintana, Jose (u202316852)
 - De la Cruz De los Santos, Mathias (u202424059)
 - Ramirez Ruiz, Nickolas (u202415551)
 - [Apellidos], Salvador ([código])
@@ -190,7 +190,7 @@ NRC 7800
 | Ramirez Ruiz, Nickolas | Lección 1 | Coordinación, documento del plan de curso (`course-plan.md`), informe de participación |
 | De la Cruz De los Santos, Mathias | Lecciones 2 y 6 | `README.md` del repositorio |
 | [Apellidos], Salvador | Lecciones 3 y 8 | Revisión técnica de todo el código Java |
-| [Apellidos], Jose | Lecciones 4 y 5 | Creación y prueba de los enlaces de práctica en OnlineGDB |
+| Ortega Quintana, Jose | Lecciones 4 y 5 | Creación y prueba de los enlaces de práctica en OnlineGDB |
 | Su Caletti, Eddo | Lección 7 | Plantilla de edición (textos en pantalla, pausas) y control de calidad de audio y video |
 
 **Forma de trabajo**: cada integrante trabajó en una rama propia del repositorio e integró sus aportes mediante *pull requests* revisados por al menos otro integrante. Los commits de cada persona evidencian su participación. Todos los ejemplos fueron probados en OnlineGDB antes de grabar.
