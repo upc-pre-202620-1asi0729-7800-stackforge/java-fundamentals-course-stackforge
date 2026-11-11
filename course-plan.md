@@ -78,13 +78,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 4: Métodos y entrada con Scanner (9 minutos)
 
 - **Descripción**: Organiza tu código en métodos reutilizables y haz que tu programa te haga preguntas y use tus respuestas.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-4)
+- **Enlace**: [Ver la lección](https://youtu.be/F5CKp2Bvgv0)
 - **Conceptos clave**:
   - Un método es un bloque de código con nombre que puedes usar muchas veces
   - Los parámetros son los datos que recibe un método; `return` devuelve un resultado
   - Un método `void` hace algo pero no devuelve nada
   - `Scanner teclado = new Scanner(System.in);` lee lo que escribe el usuario
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ENLACE-PRACTICA-4)  **¡Escribe en la consola y presiona Enter!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/QJl0CxIqU)  **¡Escribe en la consola y presiona Enter!**
 
 ---
 
@@ -151,7 +151,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 | 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-1) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-01-hola-mundo) |
 | 2 | Perfil y calculadora de notas | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-2) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-02-variables-y-operadores) |
 | 3 | Tablas de multiplicar y cuenta regresiva | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-3) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-03-decisiones-y-bucles) |
-| 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-4) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
+| 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/nnY0nbF6p) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
 | 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-5) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
 | 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-6) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-06-encapsulacion-y-arrays) |
 | 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://onlinegdb.com/I44MG-zYc) |
