@@ -9,9 +9,9 @@
 | 0:45–1:45 | Diagrama: clase `JuegoAdivinanza` y clase `Jugador` | Lista de lo que usaremos: variables, if, while, métodos, Scanner, clases, array | Usaremos todo lo que aprendiste. Dos clases: el juego guarda el número secreto; el jugador guarda su nombre y sus intentos. |
 | 1:45–3:15 | Completar `evaluar()` | Resaltar el `if / else if / else` | Primero, las pistas: mayor, menor o correcto. |
 | 3:15–4:00 | Crear la clase `Jugador` con atributos privados y getters | "private + getters, como en la lección 6" | El jugador también protege sus datos. Solo el método registrarIntento puede sumar intentos. |
-| 4:00–4:30 | Pausa breve | **⏸ PAUSA: Retos 1 y 2** | Pausa y completa evaluar y la clase Jugador. |
+| 4:00–4:30 | Pausa breve | ** PAUSA: Retos 1 y 2** | Pausa y completa evaluar y la clase Jugador. |
 | 4:30–6:45 | Bucle `while (!gano && intentos < max)` en `main` | Desglosar la condición del while | El juego se repite mientras no hayas ganado y te queden intentos. En cada vuelta leemos un número y mostramos la pista. |
-| 6:45–7:45 | Pausa | **⏸ PAUSA: Retos 3, 4, 5 y extra** | Termina el juego y pruébalo. Reto extra: guardar el historial en un array. |
+| 6:45–7:45 | Pausa |  PAUSA: Retos 3, 4, 5 y extra | Termina el juego y pruébalo. Reto extra: guardar el historial en un array. |
 | 7:45–9:00 | Probar el juego ganando y perdiendo; ideas para mejorarlo | "Ideas: niveles de dificultad · marcador · jugar otra vez" | ¿Funcionó? ¡Ya tienes un juego hecho con clases! Prueba agregar niveles de dificultad. En la última lección aprenderemos a encontrar y corregir errores como un profesional. |
 
 ## Errores comunes a mostrar

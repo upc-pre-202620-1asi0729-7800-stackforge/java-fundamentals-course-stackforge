@@ -78,26 +78,26 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 4: Métodos y entrada con Scanner (9 minutos)
 
 - **Descripción**: Organiza tu código en métodos reutilizables y haz que tu programa te haga preguntas y use tus respuestas.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-4)
+- **Enlace**: [Ver la lección](https://youtu.be/F5CKp2Bvgv0)
 - **Conceptos clave**:
   - Un método es un bloque de código con nombre que puedes usar muchas veces
   - Los parámetros son los datos que recibe un método; `return` devuelve un resultado
   - Un método `void` hace algo pero no devuelve nada
   - `Scanner teclado = new Scanner(System.in);` lee lo que escribe el usuario
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ENLACE-PRACTICA-4)  **¡Escribe en la consola y presiona Enter!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/QJl0CxIqU)  **¡Escribe en la consola y presiona Enter!**
 
 ---
 
 ### Lección 5: Clases y objetos — tu mascota virtual (9 minutos)
 
 - **Descripción**: Bienvenido a la Programación Orientada a Objetos. Crea tu primera clase con atributos, constructor y métodos, y da vida a varias mascotas virtuales.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-5)
+- **Enlace**: [Ver la lección](https://youtu.be/_xhBYeBIylk)
 - **Conceptos clave**:
   - Una clase es el molde; un objeto es lo que creas con ese molde
   - Los atributos son lo que el objeto **tiene**; los métodos, lo que **hace**
   - El constructor prepara el objeto al crearlo con `new`
   - `this.nombre` se refiere al atributo del objeto actual
-- **Práctica**: [Crea tu mascota](https://onlinegdb.com/ENLACE-PRACTICA-5)  **¡No necesitas registrarte!**
+- **Práctica**: [Crea tu mascota](https://onlinegdb.com/PLgy6YBxo)  **¡No necesitas registrarte!**
 
 ---
 
@@ -151,8 +151,8 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 | 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-1) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-01-hola-mundo) |
 | 2 | Perfil y calculadora de notas | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-2) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-02-variables-y-operadores) |
 | 3 | Tablas de multiplicar y cuenta regresiva | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-3) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-03-decisiones-y-bucles) |
-| 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-4) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
-| 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-5) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
+| 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/nnY0nbF6p) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
+| 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/VihvgDUvy) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
 | 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-6) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-06-encapsulacion-y-arrays) |
 | 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://onlinegdb.com/I44MG-zYc) |
 | 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-8) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-08-buenas-practicas-y-errores) |
@@ -176,7 +176,7 @@ NRC 7800
 **Líder del equipo**: Ramirez Ruiz, Nickolas  
 **Integrantes del equipo**:
 - Su Caletti, Eddo (u20221a390)
-- [Apellidos], Jose ([código])
+- Ortega Quintana, Jose (u202316852)
 - De la Cruz De los Santos, Mathias (u202424059)
 - Ramirez Ruiz, Nickolas (u202415551)
 - [Apellidos], Salvador ([código])
@@ -190,7 +190,7 @@ NRC 7800
 | Ramirez Ruiz, Nickolas | Lección 1 | Coordinación, documento del plan de curso (`course-plan.md`), informe de participación |
 | De la Cruz De los Santos, Mathias | Lecciones 2 y 6 | `README.md` del repositorio |
 | [Apellidos], Salvador | Lecciones 3 y 8 | Revisión técnica de todo el código Java |
-| [Apellidos], Jose | Lecciones 4 y 5 | Creación y prueba de los enlaces de práctica en OnlineGDB |
+| Ortega Quintana, Jose | Lecciones 4 y 5 | Creación y prueba de los enlaces de práctica en OnlineGDB |
 | Su Caletti, Eddo | Lección 7 | Plantilla de edición (textos en pantalla, pausas) y control de calidad de audio y video |
 
 **Forma de trabajo**: cada integrante trabajó en una rama propia del repositorio e integró sus aportes mediante *pull requests* revisados por al menos otro integrante. Los commits de cada persona evidencian su participación. Todos los ejemplos fueron probados en OnlineGDB antes de grabar.
