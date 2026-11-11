@@ -91,7 +91,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 5: Clases y objetos — tu mascota virtual (9 minutos)
 
 - **Descripción**: Bienvenido a la Programación Orientada a Objetos. Crea tu primera clase con atributos, constructor y métodos, y da vida a varias mascotas virtuales.
-- **Enlace**: [Ver la lección](https://youtu.be/_xhBYeBIylk)
+- **Enlace**: [Ver la lección](https://youtu.be/ArjZcXKZxQA)
 - **Conceptos clave**:
   - Una clase es el molde; un objeto es lo que creas con ese molde
   - Los atributos son lo que el objeto **tiene**; los métodos, lo que **hace**
