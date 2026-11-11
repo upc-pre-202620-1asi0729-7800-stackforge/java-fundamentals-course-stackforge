@@ -91,13 +91,13 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 5: Clases y objetos — tu mascota virtual (9 minutos)
 
 - **Descripción**: Bienvenido a la Programación Orientada a Objetos. Crea tu primera clase con atributos, constructor y métodos, y da vida a varias mascotas virtuales.
-- **Enlace**: [Ver la lección](https://youtu.be/ENLACE-LECCION-5)
+- **Enlace**: [Ver la lección](https://youtu.be/_xhBYeBIylk)
 - **Conceptos clave**:
   - Una clase es el molde; un objeto es lo que creas con ese molde
   - Los atributos son lo que el objeto **tiene**; los métodos, lo que **hace**
   - El constructor prepara el objeto al crearlo con `new`
   - `this.nombre` se refiere al atributo del objeto actual
-- **Práctica**: [Crea tu mascota](https://onlinegdb.com/ENLACE-PRACTICA-5)  **¡No necesitas registrarte!**
+- **Práctica**: [Crea tu mascota](https://onlinegdb.com/PLgy6YBxo)  **¡No necesitas registrarte!**
 
 ---
 
@@ -152,7 +152,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 | 2 | Perfil y calculadora de notas | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-2) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-02-variables-y-operadores) |
 | 3 | Tablas de multiplicar y cuenta regresiva | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-3) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-03-decisiones-y-bucles) |
 | 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-4) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
-| 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-5) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
+| 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/VihvgDUvy) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
 | 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-6) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-06-encapsulacion-y-arrays) |
 | 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://onlinegdb.com/I44MG-zYc) |
 | 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-8) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-08-buenas-practicas-y-errores) |
