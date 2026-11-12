@@ -164,7 +164,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 
 ---
 
-## 🎓 Elaboración
+## Elaboración
 
 Universidad Peruana de Ciencias Aplicadas  
 Carrera de Ingeniería de Software  
