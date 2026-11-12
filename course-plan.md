@@ -78,7 +78,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 ### Lección 4: Métodos y entrada con Scanner (9 minutos)
 
 - **Descripción**: Organiza tu código en métodos reutilizables y haz que tu programa te haga preguntas y use tus respuestas.
-- **Enlace**: [Ver la lección](https://youtu.be/F5CKp2Bvgv0)
+- **Enlace**: [Ver la lección](https://youtu.be/fHt02e9TCm4)
 - **Conceptos clave**:
   - Un método es un bloque de código con nombre que puedes usar muchas veces
   - Los parámetros son los datos que recibe un método; `return` devuelve un resultado
