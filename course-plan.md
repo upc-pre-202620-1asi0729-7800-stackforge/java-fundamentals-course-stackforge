@@ -170,6 +170,12 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 **¡Gracias por completar el curso!**
 
 ---
+<br> </br>
+<br> </br>
+<br> </br>
+
+<br> </br>
+
 
 ## Elaboración
 
