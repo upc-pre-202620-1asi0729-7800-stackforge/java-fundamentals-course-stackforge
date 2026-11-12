@@ -33,6 +33,18 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 
 ---
 
+<br> </br>
+<br> </br>
+
+<br> </br>
+
+<br> </br>
+
+<br> </br>
+<br> </br>
+
+<br> </br>
+
 ## Secuencia de lecciones
 
 ### Lección 1: ¿Qué es programar y qué es Java? (6 minutos)
