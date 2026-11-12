@@ -4,12 +4,12 @@
 
 Este curso de aproximadamente una hora introduce a estudiantes de secundaria a la programación con Java, incluyendo los conceptos esenciales de la Programación Orientada a Objetos (POO). Empiezas con tu primer "¡Hola, mundo!" y terminas construyendo un juego con clases y objetos, siempre con ejemplos cotidianos (notas del colegio, mascotas virtuales, juegos) y pausas para practicar. **¡No requiere descargas ni instalaciones!** Solo necesitas abrir tu navegador web.
 
-**Duración total**: ~64 minutos (8 lecciones)  
+**Duración total**: 64 minutos aproximadamente (8 lecciones)  
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: Solo tu navegador web (Chrome, Firefox, Safari o Edge)  
 **Editor en línea**: [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) — gratuito, no requiere registro  
-** Repositorio de código fuente**:  [Repositorio de GitHub](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge.git)
+**Repositorio de código fuente**: [Repositorio de GitHub](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge.git)
 
 ### ¿Cómo usar este curso?
 
@@ -58,7 +58,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - Operadores aritméticos: `+`, `-`, `*`, `/`, `%` (el `%` da el residuo)
   - Dividir entre `3.0` en lugar de `3` conserva los decimales
   - Comparar dos valores (`>=`, `==`, `!=`) da `true` o `false`
-- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-2)  **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/w1yjIX2lK)  **¡Inicio inmediato!**
 
 ---
 
@@ -110,7 +110,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
   - El getter permite leer; el setter permite cambiar con reglas (por ejemplo, notas entre 0 y 20)
   - Un array guarda varios valores del mismo tipo y sus índices empiezan en `0`
   - Los textos también tienen métodos: `.length()`, `.toUpperCase()`, `.equals()`
-- **Práctica**: [Clic para programar](https://onlinegdb.com/ENLACE-PRACTICA-6)  **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/7lCirx_iNy)  **¡Inicio inmediato!**
 
 ---
 
@@ -148,14 +148,14 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 
 | Lección | Actividad | Empezar a programar | Solución |
 |---|---|---|---|
-| 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-1) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-01-hola-mundo) |
-| 2 | Perfil y calculadora de notas | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-2) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-02-variables-y-operadores) |
-| 3 | Tablas de multiplicar y cuenta regresiva | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-3) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-03-decisiones-y-bucles) |
-| 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/nnY0nbF6p) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-04-metodos-y-entrada) |
-| 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/VihvgDUvy) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-05-clases-y-objetos) |
-| 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-6) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-06-encapsulacion-y-arrays) |
-| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://onlinegdb.com/I44MG-zYc) |
-| 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/ENLACE-PRACTICA-8) | [Ver código](https://github.com/nombre-organizacion/java-fundamentals-course-nombre-equipo/tree/main/completed-examples/leccion-08-buenas-practicas-y-errores) |
+| 1 | Hola mundo | [OnlineGDB](https://www.onlinegdb.com/edit/Li7EcCDAu#) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-01-hello-world) |
+| 2 | Perfil y calculadora de notas | [OnlineGDB](https://onlinegdb.com/w1yjIX2lK) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-02-variables-and-operators) |
+| 3 | Tablas de multiplicar y cuenta regresiva | [OnlineGDB](https://onlinegdb.com/bUspz02Dq) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-03-control-structures) |
+| 4 | Promedio con métodos y Scanner | [OnlineGDB](https://onlinegdb.com/nnY0nbF6p) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-04-methods-and-input) |
+| 5 | Mascota virtual | [OnlineGDB](https://onlinegdb.com/VihvgDUvy) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-05-classes-and-objects) |
+| 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/7lCirx_iNy) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-06-encapsulation-and-arrays) |
+| 7 | Juego de adivinanzas | [OnlineGDB](https://onlinegdb.com/ncKJA8Z21) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-07-final-project) |
+| 8 | Detective de errores | [OnlineGDB](https://onlinegdb.com/8USzzP2rUc) | [Ver código](https://github.com/upc-pre-202620-1asi0729-7800-stackforge/java-fundamentals-course-stackforge/tree/develop/completed-examples/lesson-08-best-practices-and-errors) |
 
 **Documentación oficial de Java**: [docs.oracle.com/en/java](https://docs.oracle.com/en/java/)  
 **Compartir**: #JavaBeginners
