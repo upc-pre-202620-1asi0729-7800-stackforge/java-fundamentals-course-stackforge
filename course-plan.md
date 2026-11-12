@@ -186,7 +186,7 @@ NRC 7800
 - Ortega Quintana, Jose (u202316852)
 - De la Cruz De los Santos, Mathias (u202424059)
 - Ramirez Ruiz, Nickolas (u202415551)
-- Chamorro Acero, Salvador ([código])
+- Chamorro Acero, Salvador (u201914367)
 
 
 
